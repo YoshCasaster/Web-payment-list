@@ -1,6 +1,6 @@
 # 📱💳 Payment Options Landing Page
 
-![Preview Website](https://i.imgur.com/placeholder.jpg)  
+![Preview Website](https://github.com/YoshCasaster/Web-payment-list/blob/master/webnya.png?raw=true)  
 *Gambarnya keren kan? Ini preview websitenya!*
 
 ## 🚀 Apa Ini?
